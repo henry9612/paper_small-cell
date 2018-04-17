@@ -1,4 +1,4 @@
 chapter 1: introduction
 in this contribution, we continue to discuss the UL power of small cells.
-
-we conclude that.
+chapter 2
+here we discuss the details of power control.
