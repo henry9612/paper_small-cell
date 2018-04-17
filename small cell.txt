@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 chapter 1: introduction
 in this contribution, we continue to discuss the UL power of small cells.
 chapter 2
@@ -5,3 +6,7 @@ here we discuss the details of power control.
 
 chapter 3
 here we discuss the chapter 3
+=======
+chapter 1: introducetion
+in this contribution, we continue to discuss the UL power of small cells
+>>>>>>> parent of a00b612... background
